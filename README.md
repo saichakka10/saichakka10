@@ -1,5 +1,19 @@
 ## Hi there 👋
 ---
+## 📊 GitHub Stats  
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyasai-ch&theme=highcontrast)](https://github.com/satyasai-ch)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyasai-ch&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyasai-ch&layout=compact&theme=dark)  
+
+</div>
+
+---
+
+---
 
 ## 📫 Get in Touch  
 
