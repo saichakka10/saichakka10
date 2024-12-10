@@ -7,7 +7,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saichakk10&theme=highcontrast)](https://github.com/satyasai-ch)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saichakka10&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saichakk10&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saichakka10&layout=compact&theme=dark)  
 
 </div>
 
