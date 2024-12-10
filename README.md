@@ -4,10 +4,10 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyasai-ch&theme=highcontrast)](https://github.com/satyasai-ch)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saichakk10&theme=highcontrast)](https://github.com/satyasai-ch)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyasai-ch&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyasai-ch&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saichakka10&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saichakk10&layout=compact&theme=dark)  
 
 </div>
 
