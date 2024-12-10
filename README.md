@@ -1,5 +1,14 @@
 ## Hi there 👋
+---
 
+## 📫 Get in Touch  
+
+- **Email**: [satyasai.ch10@gmail.com](mailto:satyasai.ch10@gmail.com)  
+- **Phone**: +91 8977782002  
+- **Location**: Hyderabad, Telangana, India.
+- **LinkedIn**: [Chakka Satya Sai](https://www.linkedin.com/in/satya-sai-chakka/)  
+
+---
 <!--
 **saichakka10/saichakka10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
