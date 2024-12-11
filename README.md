@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saichakk10&theme=highcontrast)](https://github.com/saichakka10)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saichakka10&theme=dark&hide_border=false)<br/>  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saichakka10&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saichakka10&layout=compact&theme=dark)  
