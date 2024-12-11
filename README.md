@@ -29,10 +29,9 @@ Archived Data-Science, Machine learning, Deep learning, NLP certificate
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="22" alt="hackerrank logo"  />
   </a>
 </div>
+
 ---
 
-
-  
 ## 🛠️ Skills & Expertise  
 
 ### **Languages**  
@@ -57,6 +56,7 @@ Archived Data-Science, Machine learning, Deep learning, NLP certificate
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -80,7 +80,6 @@ Archived Data-Science, Machine learning, Deep learning, NLP certificate
 
 ---
 
-</div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saichakka10.saichakka10"  />
 </div>
