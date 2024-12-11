@@ -28,8 +28,11 @@ Archived Data-Science, Machine learning, Deep learning, NLP certificate
   <a href="https://www.hackerrank.com/profile/satyasai_ch10" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="22" alt="hackerrank logo"  />
   </a>
+</div>
 ---
 
+
+  
 ## 🛠️ Skills & Expertise  
 
 ### **Languages**  
