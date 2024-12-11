@@ -12,15 +12,22 @@ Throughout the years, I have gained and refined relevant skills and knowledge in
   - **B.Sc. in Computer Science**, Sri C.R.Reddy College(A) (2018–2021), 76.9% 
 
 ## Achivements & Certifications
-
+<br>
 National Scholarship Recipient: 
 Earned the National Scholarship for demonstrating outstanding academic performance during my Bachelor's degree
+</br>
+<br>
 Hacker Rank:
 Earned 4-stars silver badge and Basic SQL Certification
+</br>
+<br>
 PrepInsta:
 Achieved AI-Ml, Python, and SQL Certifications
+</br>
+<br>
 Udemy:
 Archived Data-Science, Machine learning, Deep learning, NLP certificate
+</br>
 
 ---
 
