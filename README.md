@@ -12,22 +12,23 @@ Throughout the years, I have gained and refined relevant skills and knowledge in
   - **B.Sc. in Computer Science**, Sri C.R.Reddy College(A) (2018–2021), 76.9% 
 
 ## Achivements & Certifications
-<br>
+<li>
 National Scholarship Recipient: 
-Earned the National Scholarship for demonstrating outstanding academic performance during my Bachelor's degree
-</br>
-<br>
+I earned the National Scholarship for demonstrating outstanding academic performance during my bachelor's degree program.
+</li>
+<il>
 Hacker Rank:
-Earned 4-stars silver badge and Basic SQL Certification
-</br>
-<br>
+Earned 4-star silver badge and Basic SQL Certification.
+</il>
+<li>
 PrepInsta:
-Achieved AI-Ml, Python, and SQL Certifications
-</br>
-<br>
+Achieved AI-Ml, Python, and SQL Certifications.
+</li>
+<li>
 Udemy:
-Archived Data-Science, Machine learning, Deep learning, NLP certificate
-</br>
+Archived Data-Science, Machine learning, Deep learning, and NLP certificate.
+</li>
+
 
 ---
 
@@ -39,7 +40,7 @@ Archived Data-Science, Machine learning, Deep learning, NLP certificate
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="22" alt="hackerrank logo"  />
   </a>
   <a href="https://saichakka10.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=plastic" height="22" alt="portfolio website logo of Github"/>
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=plastic" height="22" alt="portfolio website logo of Github"/>
   </a>
 </div>
 
