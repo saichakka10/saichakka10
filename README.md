@@ -7,7 +7,8 @@
 Throughout the years, I have gained and refined relevant skills and knowledge in Data Science and Machine learning. I am confident that my ability to evaluate, design, and execute advanced algorithms and solutions will significantly enhance both the organization's success and my personal growth.
 
 ---
-- 🎓 **Education**:  
+
+## 🎓 **Education**:  
   - **M.Sc. in Data Science**, Gitam University (2022–2024), CGPA: 7.75/10  
   - **B.Sc. in Computer Science**, Sri C.R.Reddy College(A) (2018–2021), 76.9% 
 
