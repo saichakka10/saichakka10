@@ -31,7 +31,7 @@
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saichakka10&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saichakka10&theme=dark&hide_border=false)<br/>    
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saichakka10&theme=dark&hide_border=false)<br/>    
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saichakka10&layout=compact&theme=dark)  
 
 </div>
