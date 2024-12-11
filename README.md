@@ -53,7 +53,12 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saichakka10&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=saichakka10&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+### 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=saichakka10&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
