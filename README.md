@@ -1,5 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Satya Sai Chakka
+## Striving to Become a Skilled Data Scientist
 ---
+
+## About me
+
+Throughout the years, I have gained and refined relevant skills and knowledge in Data Science and Machine learning. I am confident that my ability to evaluate, design, and execute advanced algorithms and solutions will significantly enhance both the organization's success and my personal growth.
+
+---
+
+## Achivements & Certifications
+
+National Scholarship Recipient: 
+Earned the National Scholarship for demonstrating outstanding academic performance during my Bachelor's degree
+Hacker Rank:
+Earned 4-stars silver badge and Basic SQL Certification
+PrepInsta:
+Achieved AI-Ml, Python, and SQL Certifications
+Udemy:
+Archived Data-Science, Machine learning, Deep learning, NLP certificate
+
+---
+
 <div align="center">
   <a href="https://linkedin.com/in/satya-sai-chakka" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="22" alt="linkedin logo"  />
