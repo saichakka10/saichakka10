@@ -82,9 +82,10 @@ Archived Data-Science, Machine learning, Deep learning, and NLP certificate.
 ---
 ## 💡 Featured Projects
 ### [Churn Prediction Using Artificial Neural Networks](https://github.com/saichakka10/Churn-Prediction-Using-ANN)
-**Technologies**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)(https://annclassification-churn-ldfph5xivpurpwha2czmbz.streamlit.app/)
+**Technologies**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 - Developed a deep learning model using ANN for Churn Prediction
-- The project has been successfully deployed on both GitHub and Streamlit Cloud.
+- The project has been successfully deployed on both GitHub and Streamlit Cloud. (https://annclassification-churn-ldfph5xivpurpwha2czmbz.streamlit.app/)
+
 
 ## 📊 GitHub Stats  
 
