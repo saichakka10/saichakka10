@@ -43,6 +43,9 @@ Archived Data-Science, Machine learning, Deep learning, and NLP certificate.
   <a href="https://saichakka10.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=plastic" height="22" alt="portfolio website logo of Github"/>
   </a>
+  <a href="https://www.kipi.ai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=plastic" height="22" alt="portfolio website logo of Github"/>
+  </a>
 </div>
 
 ---
