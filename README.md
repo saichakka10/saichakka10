@@ -19,8 +19,8 @@ National Scholarship Recipient:
 I earned the National Scholarship for demonstrating outstanding academic performance during my bachelor's degree program.
 </li>
 <il>
-Hacker Rank:
-Earned 4-star silver badge and Basic SQL Certification.
+HackerRank:
+Earned a 4-star silver badge and Basic SQL Certification.
 </il>
 <li>
 PrepInsta:
@@ -28,8 +28,16 @@ Achieved AI-Ml, Python, and SQL Certifications.
 </li>
 <li>
 Udemy:
-Archived Data-Science, Machine learning, Deep learning, and NLP certificate.
+Archived Data Science, Machine Learning, Deep Learning, and NLP certificate.
 </li>
+<li>
+Snowflake:
+Archived with SnowPro Core Certification from Snowflake.
+</li>
+<li>
+Pinnacle Awards: Recognised with 2 Pinnacle awards for contribution to the client project at Kipi.ai
+</li>
+
 
 
 ---
@@ -74,10 +82,10 @@ Archived Data-Science, Machine learning, Deep learning, and NLP certificate.
 ### **Cloud Platforms**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### **Cloud Data Platform**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 
 ### **Tools & Technologies**  
