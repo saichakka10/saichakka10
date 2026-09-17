@@ -4,7 +4,8 @@
 
 ## About me
 
-Throughout the years, I have gained and refined relevant skills and knowledge in Data Science and Machine learning. I am confident that my ability to evaluate, design, and execute advanced algorithms and solutions will significantly enhance both the organization's success and my personal growth.
+Software Engineer at Kipi.ai | SnowPro Core Certified | Data Science & Machine Learning enthusiast. I build data-driven solutions and explore AI, ML, and modern data engineering technologies to solve real-world problems. Continuous learning, building, and turning ideas into practical solutions.
+
 
 ---
 
