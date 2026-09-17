@@ -44,7 +44,7 @@ Archived Data-Science, Machine learning, Deep learning, and NLP certificate.
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=plastic" height="22" alt="portfolio website logo of Github"/>
   </a>
   <a href="https://www.kipi.ai/" target="_blank">
-  <img src="https://raw.githubusercontent.com/saichakka10/saichakka10/main/assets/kipi-logo.png"
+  <img src="https://brandfetch.com/kipi.ai?library=default&collection=logos&asset=idmXgaQaAZ"
        height="22"
        alt="Kipi.ai"/>
 </a>
